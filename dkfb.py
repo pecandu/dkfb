@@ -871,8 +871,8 @@ def clone_dari_file():
 	raw_input("\n\033[1;96m[\033[1;97mKembali\033[1;96m]")
 	menu()
 	
-       os.system('mkdir /sdcard/Hasil')
-       os.system('mv pass.txt /sdcard/Hasil')
+       
+    
 		
 if __name__ == '__main__':
 	siapa()
