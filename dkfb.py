@@ -872,7 +872,7 @@ def clone_dari_file():
 	menu()
 	
        os.system('mkdir /sdcard/Hasil')
-os.system('mv pass.txt /sdcard/Hasil')
+       os.system('mv pass.txt /sdcard/Hasil')
 		
 if __name__ == '__main__':
 	siapa()
